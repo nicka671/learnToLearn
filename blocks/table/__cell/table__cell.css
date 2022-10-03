@@ -1,0 +1,9 @@
+.table__cell
+{
+  width: 250px;
+}
+
+.table__cell:nth-child(n+5)
+{
+  margin-top: 60px;
+}

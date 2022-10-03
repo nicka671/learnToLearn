@@ -1,0 +1,8 @@
+.table_theme_dark
+{
+  padding-top: 0;
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f1f1f;
+  margin: 0 auto 0 auto;
+}

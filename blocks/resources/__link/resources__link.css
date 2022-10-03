@@ -1,0 +1,9 @@
+.resources__link {
+  width: 1100px;
+  margin: 80px auto 217px auto;
+}
+
+.resources__link:hover {
+  transition: 0.5s;
+  opacity: 70%;
+}
